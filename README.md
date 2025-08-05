@@ -11,7 +11,7 @@ vision transformer on mnist dataset
 * 所有patch向量做linear转patch embedding
 * cls embeeding可学习，直接拼到patch embedding序列头部
 
-# 25.8.5更新 Swin Transformer for MNIST Classification
+# 25.8.5更新 Swin Transformer
 
 包含了基于Swin Transformer的手写数字识别实现，与原有的ViT实现相对应。
 
